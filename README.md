@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00A8FF&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+zahryachieve;Welcome+to+my+GitHub+Profile!;+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00A8FF&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+zahryachieve;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <p align="center"><b>Fullstack Developer • Data Analyst • Code Explorer</b></p>
