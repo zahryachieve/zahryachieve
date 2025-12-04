@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Universe!&fontColor=fff&fontSize=40" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Zahry Achieve</h1>
+<h1 align="center">👋 Hi, I'm zahryachieve</h1>
 <p align="center"><b>Fullstack Developer • Tech Artist • Code Explorer</b></p>
 
 ---
