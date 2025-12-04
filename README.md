@@ -16,23 +16,41 @@
 
 ---
 
-## 🎨 Languages & Tools — Aesthetic Curved Glow
-
-<p align="center" style="border-radius: 20px; padding: 20px;">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="55" />
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" />
-</p>
+## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" height="55" />
+
+<!-- Baris 1 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="45" />
+
+<br/><br/>
+
+<!-- Baris 2 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45" />
+
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,mysql,postgres&theme=dark" height="55" />
-</p>
 
 
 
