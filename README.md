@@ -16,40 +16,55 @@
 
 ---
 
-## 🧰 Languages & Tools
+## 🎨 Languages & Tools — Curved Aesthetic
 
 <p align="center">
 
-<!-- Baris 1 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="45" />
+<!-- Curve Top -->
+<span style="margin: 0 18px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="55" />
+</span>
+<span style="margin: 0 18px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="55" />
+</span>
+<span style="margin: 0 18px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" width="55" />
+</span>
 
 <br/><br/>
 
-<!-- Baris 2 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45" />
+<!-- Curve Middle -->
+<span style="margin: 0 14px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" />
+</span>
+<span style="margin: 0 14px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" />
+</span>
+<span style="margin: 0 14px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" />
+</span>
+<span style="margin: 0 14px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55" />
+</span>
+<span style="margin: 0 14px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" />
+</span>
+
+<br/><br/>
+
+<!-- Curve Bottom -->
+<span style="margin: 0 22px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" />
+</span>
+<span style="margin: 0 22px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="55" />
+</span>
+<span style="margin: 0 22px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" />
+</span>
 
 </p>
+
 
 
 
