@@ -16,55 +16,15 @@
 
 ---
 
-## 🎨 Languages & Tools — Curved Aesthetic
+## 🌌 Languages & Tools — Dark Neon
 
 <p align="center">
-
-<!-- Curve Top -->
-<span style="margin: 0 18px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="55" />
-</span>
-<span style="margin: 0 18px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="55" />
-</span>
-<span style="margin: 0 18px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" width="55" />
-</span>
-
-<br/><br/>
-
-<!-- Curve Middle -->
-<span style="margin: 0 14px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" />
-</span>
-<span style="margin: 0 14px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" />
-</span>
-<span style="margin: 0 14px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" />
-</span>
-<span style="margin: 0 14px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55" />
-</span>
-<span style="margin: 0 14px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" />
-</span>
-
-<br/><br/>
-
-<!-- Curve Bottom -->
-<span style="margin: 0 22px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" />
-</span>
-<span style="margin: 0 22px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="55" />
-</span>
-<span style="margin: 0 22px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" />
-</span>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,c&theme=dark&perline=8" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind&theme=dark&perline=6" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma,mysql,postgres&theme=dark&perline=7" />
 </p>
-
 
 
 
