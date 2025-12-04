@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 Activity Graph (Grafik Aktivitas Keren)
+## 📊 Activity Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahryachieve&theme=tokyo-night&area=true&hide_border=true" />
 </p>
@@ -38,14 +38,14 @@
 
 ---
 
-## 🏆 GitHub Trophy (Piala Statistik)
+## 🏆 GitHub Trophy 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zahryachieve&theme=dracula&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 📈 Top Languages (Grafik Bahasa)
+## 📈 Top Languages 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahryachieve&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
