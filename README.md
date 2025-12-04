@@ -1,6 +1,6 @@
 <!-- Banner Atas -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Universe!&fontColor=fff&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Github!&fontColor=fff&fontSize=40" />
 </p>
 
 <h1 align="center">👋 Hi, I'm zahryachieve</h1>
