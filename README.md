@@ -4,13 +4,13 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm zahryachieve</h1>
-<p align="center"><b>Fullstack Developer • Tech Artist • Code Explorer</b></p>
+<p align="center"><b>Fullstack Developer • Data Analyst • Code Explorer</b></p>
 
 ---
 
 ## 🌟 About Me
 - 🚀 Suka bikin project yang aesthetic & fungsional  
-- 🧠 Fokus belajar: **AI, Next.js, Rust, DevOps**  
+- 🧠 Fokus belajar: **AI, php framework/Laravel, machine learning, python, cyber security**  
 - 🎨 Coding = art, jadi profil harus keren  
 - 🌌 Selalu exploring teknologi baru
 
