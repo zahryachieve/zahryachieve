@@ -39,8 +39,9 @@
 
 ## 📊 Activity Graph 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/wave.svg" />
+  <img src="https://raw.githubusercontent.com/zahryachieve/zahryachieve/main/animated-graph.svg" />
 </p>
+
 
 
 
