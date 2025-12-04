@@ -38,29 +38,10 @@
 
 ---
 
-## 🏆 GitHub Trophy 
 <p align="center">
-  <img src=["https://github-profile-trophy.vercel.app/?username=zahryachieve&theme=dracula&no-frame=true&row=1&column=7" ](https://github-profile-trophy.vercel.app/?username=zahryachieve&theme=algolia
-)/>
+  <img src="https://raw.githubusercontent.com/zahryachieve/zahryachieve/output/snake.svg" />
 </p>
 
----
-
-## 📈 Top Languages 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahryachieve&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🧬 3D Contribution Chart (Grafik 3D)
-> Ini grafik 3D yang super keren!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zahryachieve/zahryachieve/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 📫 Connect With Me
 <p align="center">
