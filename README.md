@@ -25,29 +25,29 @@
 
 ## 📊 Activity Graph (Grafik Aktivitas Keren)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahryachieve&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 GitHub Stats + Streak + Trophy
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zahryachieve&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zahryachieve&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophy (Piala Statistik)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=dracula&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zahryachieve&theme=dracula&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 ## 📈 Top Languages (Grafik Bahasa)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahryachieve&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@
 > Ini grafik 3D yang super keren!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/zahryachieve/zahryachieve/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
