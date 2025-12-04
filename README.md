@@ -39,8 +39,9 @@
 
 ## 📊 Activity Graph 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahryachieve&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahryachieve&theme=react-dark&area=true&hide_border=true&radius=12&bg_color=00000000&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=00FFFF&custom_title=Activity+Graph&animate=true" />
 </p>
+
 
 ---
 
