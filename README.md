@@ -16,26 +16,16 @@
 
 ---
 
-## 🛠️ Languages & Tools — Dark Glassmorphism
+## 🌌 Languages & Tools — Dark Neon
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,c&theme=dark&perline=8" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind&theme=dark&perline=6" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma,mysql,postgres&theme=dark&perline=7" />
+</p>
 
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" /></td>
-    <td><img src="https://skillicons.dev/icons?i=css&theme=dark" /></td>
-    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" /></td>
-    <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=php&theme=dark" /></td>
-    <td><img src="https://skillicons.dev/icons?i=python&theme=dark" /></td>
-    <td><img src="https://skillicons.dev/icons?i=java&theme=dark" /></td>
-    <td><img src="https://skillicons.dev/icons?i=c&theme=dark" /></td>
-  </tr>
-</table>
-
-</div>
 
 
 
