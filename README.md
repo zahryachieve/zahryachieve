@@ -16,11 +16,24 @@
 
 ---
 
-## 🌙 Languages & Tools — Minimal Cards
+## 🎨 Languages & Tools — Aesthetic Curved Glow
+
+<p align="center" style="border-radius: 20px; padding: 20px;">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="55" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=dark&line1=HTML,HTML,html;CSS,CSS,css;JavaScript,JavaScript,js;TypeScript,TypeScript,ts;&line2=Python,Python,python;PHP,PHP,php;Java,Java,java;C,C Language,c" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" height="55" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,mysql,postgres&theme=dark" height="55" />
+</p>
+
 
 
 
