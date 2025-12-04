@@ -16,10 +16,21 @@
 
 ---
 
-## ⚙️ Tech Arsenal
+## 🛠️ Languages & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,laravel,nodejs,python,rust,go,docker,linux,nginx,tailwind,figma,mongodb,mysql,postgres,git" />
+
+<!-- Bahasa Pemrograman -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&theme=dark" />
+
+<!-- Framework & Libraries -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind&theme=dark" />
+
+<!-- Tools & Software -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postgres,mysql&theme=dark" />
+
 </p>
+
 
 ---
 
