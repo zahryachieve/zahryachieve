@@ -16,15 +16,12 @@
 
 ---
 
-## 🌌 Languages & Tools — Dark Neon
+## 🌙 Languages & Tools — Minimal Cards
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,c&theme=dark&perline=8" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind&theme=dark&perline=6" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma,mysql,postgres&theme=dark&perline=7" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=dark&line1=HTML,HTML,html;CSS,CSS,css;JavaScript,JavaScript,js;TypeScript,TypeScript,ts;&line2=Python,Python,python;PHP,PHP,php;Java,Java,java;C,C Language,c" />
 </p>
+
 
 
 
