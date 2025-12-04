@@ -3,7 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Github!&fontColor=fff&fontSize=40" />
 </p>
 
-<h1 align="center">👋 Hi, I'm zahryachieve</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00A8FF&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+zahryachieve;Welcome+to+my+GitHub+Profile!;Frontend+Developer+%F0%9F%92%BB" />
+</p>
+
 <p align="center"><b>Fullstack Developer • Data Analyst • Code Explorer</b></p>
 
 ---
