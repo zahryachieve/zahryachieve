@@ -16,20 +16,27 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools — Dark Glassmorphism
 
-<p align="center">
+<div align="center">
 
-<!-- Bahasa Pemrograman -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&theme=dark" />
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=php&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=c&theme=dark" /></td>
+  </tr>
+</table>
 
-<!-- Framework & Libraries -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind&theme=dark" />
+</div>
 
-<!-- Tools & Software -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postgres,mysql&theme=dark" />
-
-</p>
 
 
 ---
